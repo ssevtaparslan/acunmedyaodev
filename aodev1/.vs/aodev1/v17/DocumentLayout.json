@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\aodev1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3931290-622E-4157-A1A1-0117BA8E360D}|aodev1\\aodev1.csproj|c:\\users\\lenovo\\desktop\\aodev1\\aodev1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3931290-622E-4157-A1A1-0117BA8E360D}|aodev1\\aodev1.csproj|solutionrelative:aodev1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3931290-622E-4157-A1A1-0117BA8E360D}|aodev1\\aodev1.csproj|C:\\Users\\Lenovo\\Desktop\\aodev1\\aodev1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3931290-622E-4157-A1A1-0117BA8E360D}|aodev1\\aodev1.csproj|solutionrelative:aodev1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\aodev1\\aodev1\\Form1.cs",
+              "RelativeDocumentMoniker": "aodev1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\aodev1\\aodev1\\Form1.cs",
+              "RelativeToolTip": "aodev1\\Form1.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAcwEYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:54:01.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\aodev1\\aodev1\\Form1.cs",
+              "RelativeDocumentMoniker": "aodev1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\aodev1\\aodev1\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "aodev1\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:53:45.59Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
