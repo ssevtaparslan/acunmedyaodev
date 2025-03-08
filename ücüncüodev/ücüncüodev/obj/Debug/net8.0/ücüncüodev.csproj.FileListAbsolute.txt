@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\ücüncüodev\ücüncüodev\bin\Debug\net8.0\ücüncüodev.exe
+C:\Users\Lenovo\Desktop\ücüncüodev\ücüncüodev\bin\Debug\net8.0\ücüncüodev.deps.json
+C:\Users\Lenovo\Desktop\ücüncüodev\ücüncüodev\bin\Debug\net8.0\ücüncüodev.runtimeconfig.json
+C:\Users\Lenovo\Desktop\ücüncüodev\ücüncüodev\bin\Debug\net8.0\ücüncüodev.dll
+C:\Users\Lenovo\Desktop\ücüncüodev\ücüncüodev\bin\Debug\net8.0\ücüncüodev.pdb
+C:\Users\Lenovo\Desktop\ücüncüodev\ücüncüodev\obj\Debug\net8.0\ücüncüodev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\ücüncüodev\ücüncüodev\obj\Debug\net8.0\ücüncüodev.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\ücüncüodev\ücüncüodev\obj\Debug\net8.0\ücüncüodev.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\ücüncüodev\ücüncüodev\obj\Debug\net8.0\ücüncüodev.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ücüncüodev\ücüncüodev\obj\Debug\net8.0\ücüncüodev.dll
+C:\Users\Lenovo\Desktop\ücüncüodev\ücüncüodev\obj\Debug\net8.0\refint\ücüncüodev.dll
+C:\Users\Lenovo\Desktop\ücüncüodev\ücüncüodev\obj\Debug\net8.0\ücüncüodev.pdb
+C:\Users\Lenovo\Desktop\ücüncüodev\ücüncüodev\obj\Debug\net8.0\ücüncüodev.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\ücüncüodev\ücüncüodev\obj\Debug\net8.0\ref\ücüncüodev.dll
