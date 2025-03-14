@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "dizilerodevi1/1.0.0": {
+        "runtime": {
+          "dizilerodevi1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dizilerodevi1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
