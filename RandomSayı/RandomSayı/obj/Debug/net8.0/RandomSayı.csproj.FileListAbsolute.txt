@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\RandomSayı\RandomSayı\bin\Debug\net8.0\RandomSayı.exe
+C:\Users\Lenovo\Desktop\RandomSayı\RandomSayı\bin\Debug\net8.0\RandomSayı.deps.json
+C:\Users\Lenovo\Desktop\RandomSayı\RandomSayı\bin\Debug\net8.0\RandomSayı.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RandomSayı\RandomSayı\bin\Debug\net8.0\RandomSayı.dll
+C:\Users\Lenovo\Desktop\RandomSayı\RandomSayı\bin\Debug\net8.0\RandomSayı.pdb
+C:\Users\Lenovo\Desktop\RandomSayı\RandomSayı\obj\Debug\net8.0\RandomSayı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RandomSayı\RandomSayı\obj\Debug\net8.0\RandomSayı.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RandomSayı\RandomSayı\obj\Debug\net8.0\RandomSayı.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RandomSayı\RandomSayı\obj\Debug\net8.0\RandomSayı.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RandomSayı\RandomSayı\obj\Debug\net8.0\RandomSayı.dll
+C:\Users\Lenovo\Desktop\RandomSayı\RandomSayı\obj\Debug\net8.0\refint\RandomSayı.dll
+C:\Users\Lenovo\Desktop\RandomSayı\RandomSayı\obj\Debug\net8.0\RandomSayı.pdb
+C:\Users\Lenovo\Desktop\RandomSayı\RandomSayı\obj\Debug\net8.0\RandomSayı.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RandomSayı\RandomSayı\obj\Debug\net8.0\ref\RandomSayı.dll
