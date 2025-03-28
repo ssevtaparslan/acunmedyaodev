@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\NesneUygulaması\NesneUygulaması\bin\Debug\net8.0\NesneUygulaması.exe
+C:\Users\Lenovo\Desktop\NesneUygulaması\NesneUygulaması\bin\Debug\net8.0\NesneUygulaması.deps.json
+C:\Users\Lenovo\Desktop\NesneUygulaması\NesneUygulaması\bin\Debug\net8.0\NesneUygulaması.runtimeconfig.json
+C:\Users\Lenovo\Desktop\NesneUygulaması\NesneUygulaması\bin\Debug\net8.0\NesneUygulaması.dll
+C:\Users\Lenovo\Desktop\NesneUygulaması\NesneUygulaması\bin\Debug\net8.0\NesneUygulaması.pdb
+C:\Users\Lenovo\Desktop\NesneUygulaması\NesneUygulaması\obj\Debug\net8.0\NesneUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\NesneUygulaması\NesneUygulaması\obj\Debug\net8.0\NesneUygulaması.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\NesneUygulaması\NesneUygulaması\obj\Debug\net8.0\NesneUygulaması.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\NesneUygulaması\NesneUygulaması\obj\Debug\net8.0\NesneUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\NesneUygulaması\NesneUygulaması\obj\Debug\net8.0\NesneUygulaması.dll
+C:\Users\Lenovo\Desktop\NesneUygulaması\NesneUygulaması\obj\Debug\net8.0\refint\NesneUygulaması.dll
+C:\Users\Lenovo\Desktop\NesneUygulaması\NesneUygulaması\obj\Debug\net8.0\NesneUygulaması.pdb
+C:\Users\Lenovo\Desktop\NesneUygulaması\NesneUygulaması\obj\Debug\net8.0\NesneUygulaması.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\NesneUygulaması\NesneUygulaması\obj\Debug\net8.0\ref\NesneUygulaması.dll
